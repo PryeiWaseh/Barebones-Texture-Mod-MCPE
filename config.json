@@ -1,143 +1,374 @@
 {
   "Config": [
     {
-      "interval": 5,
+      "interval": 2,
       "backup": "unity",
       "status": true,
       "link": "https:/google.com/",
-      
-      "addon": false,
-      "maps": false,
-      "texture": false,
+      "addon": true,
+      "maps": true,
+      "texture": true,
       "skin": true,
       "more": false,
-      
-      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native": "ca-app-pub-3940256099942544/2247696110",
-     
-      
+      "admob_open_ads": "ca-app-pub-3044835834543602/9938764655",
+      "admob_banner": "ca-app-pub-3044835834543602/7695744698",
+      "admob_inter": "ca-app-pub-3044835834543602/3756499689",
+      "admob_native": "ca-app-pub-3044835834543602/3564927999",
       "unity_banner": "Banner_Android",
       "unity_inter": "Interstitial_Android",
-      
-      
       "applovin_banner": "unitid",
       "applovin_inter": "unitid",
       "applovin_native": "unitid",
-      
       "ironsource_banner": "1215fccad",
       "ironsource_inter": "1215fccad"
-      
-      
     }
   ],
   "Addon": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+      "name": "Copper Golem Addon - Waxing, Sounds, Dancing & More",
+      "role": "I know many other creators have created copper golem, but this one is a different one. This one has it's own cute little voices, it can dance, it can rotate it's head, it can be waxed to stop the oxidization and much more!...If you want to suggest or request an addon, Subscribe to my youtube channel and comment on my latest video about your Idea (I might take, might not. Depends on your idea)I make ~These~ kind of addons frequently on my YouTube channel - Anni boy",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Allay/1/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Allay/1/Copper_Golem_Addon.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Allay/1/1.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Allay/1/2.jpeg"
+    },
+    {
+      "name": "Minecon 2021 Mobs Add-on",
+      "role": "In this add-on I added the three mobs for voting.I created this add-on a few days ago, but only today I managed to publish it, we already know who won,congratulations allay! but now you can enjoy all the mobs. Except for one, the bean already has similar functions to those given by minecraft, but I couldn't add them identical. I am working to improve them,but at the same time I am working on other add-ons and the next update for this add-on will appear later. For the functions currently added to the mobs, you can find them below in the description of each mob. ! For the Add-on to work you must have experimental gameplay settings enabled when you create the world. If you already have a world created, a copy will be made to it when you activate these settings.As I already said, add-ons I am working on are the next: The Wild Update Add-on, Saint Nicholas Holiday Add-on, Christmas Holidays Add-on,but I don't promise it will all show up.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Allay/2/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Allay/2/Minecon_2021_Mobs_Addon.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Allay/2/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Allay/2/1.png"
     }
   ],
   "Map": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+      "name": "Among Us Maps Recreated In Minecraft",
+      "role": "This map includes my recreations of the Among Us maps Skeld, MIRA HQ, Polus, and The Airship. These will be fun to explore alone or play in with friends! You might be able to make these functional using command blocks, but for now their just there to look pretty.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/7/satu.jpeg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/7/Among_Us.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/7/empat.jpeg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/7/dua.jpeg"
+    },
+    {
+      "name": "Among Us Map Builder",
+      "role": "Have you ever wondered how can you make your own Among Us levels? Well here's how! Using my creation, you can make your very own levels, play with your friends with it too!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/8/tiga.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/8/Among Us Map Template.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/8/satu.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/8/dua.png"
+    },
+    {
+      "name": "MCBE Among Us v2 (NEW Revamped Vents, Bug Fixes & More!)",
+      "role": "Wanna play Among Us but in Minecraft? Now you can! This map works quite similarly to the actual Among Us and is fully functional. Play with 4 - 10 players! Find the Impostor, or finish your tasks!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/9/enam.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/9/MCBE_Among_Us_v2_JS_Dy.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/9/empat.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/9/dua.png"
+    },
+    {
+      "name": "AMONG US: The Skeld Map",
+      "role": "Are you always wanna play Among Us in first person view? Then there you go! I recreated a map which has fully detailed based on The Skeld, a spaceship map in Among Us to let you guys experience playing Among Us in Minecraft first person view! Hope you guys love it.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/1/enam.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/1/Among Us The Skeld (fixed).mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/1/empat.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/1/dua.png"
+    },
+    {
+      "name": "Among Us 2 Airship",
+      "role": "Welcome to the Among us 2 Airship, A Parkour map or you can call it a speed run Parkour. Each level has around 1o or more jumps. This will be my 2nd among us parkour map, but this time its more easier then my other map. This is also celebrating my 2,000 Subscribers on my YouTube Channel.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/tiga.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/Among Us 2 Airship.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/satu.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/dua.png"
+    },
+    {
+      "name": "Among Us 2 Airship",
+      "role": "Welcome to the Among us 2 Airship, A Parkour map or you can call it a speed run Parkour. Each level has around 1o or more jumps. This will be my 2nd among us parkour map, but this time its more easier then my other map. This is also celebrating my 2,000 Subscribers on my YouTube Channel.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/tiga.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/Among Us 2 Airship.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/dua.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/satu.png"
+    },
+    {
+      "name": "Among Us Parkour Map",
+      "role": "Hey Guys Welcome to the Among Us Parkour map in this map you will parkouring all way to the end to press the emergency button to win and figure who's the imposter. Try to finish the map to able to win the game this will be the first among us parkour map in Minecraft Bedrock Edition.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/4/satu.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/4/Among Us Parkour Map(2).mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/4/empat.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/4/dua.png"
+    },
+    {
+      "name": "Among Us Craft",
+      "role": "Hello everyone, I am from the maker of this minecraft folder will provide instructions on this map.  1. The first instruction, When entering the game, we may invite friends with a maximum of 5 players. and you can choose pets among us as you like. 2. Second instruction, when entering the arena, you can immediately carry out your task. If while you are undergoing a task, suddenly the security of Shield, O2, O2 in the admin, and in Reactor is interrupted, press the lever in security. 3. Third instruction, If you become Impostors, do your respective duties. 4. The fourth instruction, If you find a dead body or see an impostor killing, press the Emergency Meeting button in the Cafeteria. After pressing it, you are given the opportunity to vote as long as you want, if you choose who is the impostor, you take the golden sword in the chests and you push him and attack him to death and the sword appears then he is the impostor. If you don't know who the impostor is and haven't voted then you can skip voting and continue playing. If you want to exit the game, then you have to go to the Emergency Meeting and at the voting place there is a button with instructions, press the button you can leave the game.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/6/enam.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/6/IiSAX0UjRQA.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/6/empat.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/6/dua.png"
+    },
+    {
+      "name": "The Skeld Space Ship From the Game 'Among Us' - Exterior Only",
+      "role": "Ever played the game 'Among Us'? Always wanted to be in the Skeld ship where the game takes place? Well Here you go, I Created this World by Hand for you.  I've Done Both the Exterior and The Interior. Please make my work pay off. The Rest is up to you, Sir/Madam. Greetings! And we Shall Meet Again.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/10/satu.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/10/skeld_both_interior_exterior.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/10/empat.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/10/dua.png"
+    },
+    {
+      "name": "AMONG CRAFT (Update)",
+      "role": "This map is based on the game Among Us. It has only THE SKELD map.  This map is also playable you can be CREWMATE or the IMPOSTOR. And here you can do tasks like scanning at the medbay and clicking the buttons on the diamond block.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/11/enam.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/11/Among craft.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/11/empat.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/11/dua.png"
+    },
+    {
+      "name": "Among Us: The Skeld, Mira HQ & Polus! (All In One World) (No Mods)",
+      "role": "This is a Minecraft world featuring all 3 Among Us maps: The Skeld, Mira HQ and Polus. It was built in bedrock, and it's best if used with the Alien Worlds texture pack!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/12/enam.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/12/Among Us map by K&G.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/12/empat.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/12/dua.png"
+    },
+    {
+      "name": "Mira HQ Remake in Minecraft",
+      "role": "Mira HQ map from Among Us in minecraft! Hang out with friends or explore the map from 1st person. The map doesn’t work like in Among Us, except for the vents. Built by Confusion4653 aka me. Original map by the Innersloth team.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/13/enam.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/13/Mira-HQ_1601230605.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/13/empat.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/13/dua.png"
+    },
+    {
+      "name": "Star Wars Addon Official Map 1.2.1",
+      "role": "This map contains 4 star wars planets which means that it is a 4 in 1 map including the planet Jakku, Takodana, Hoth and Mustafar",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/16/enam.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/16/Star Wars Addon 1.2 Map by Doctor Joker .mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/16/empat.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/16/dua.png"
+    },
+    {
+      "name": "Mini PvP Arena",
+      "role": "Reak havoc on your opponents! Are you looking for quick-paced exciting multiplayer battles? If so, this is the perfect world for you! With multiplayer compatibility, and a pre-made arena with already pre-equipped armor, swords, and Gapples, there's no need to wait or craft your weapons! Want to play in teams? No problem! Just go to the selection area and choose your team! People on the same team can't hurt each other, so band together and control the arena!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/18/satu.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/18/Insomnia Simple PVP.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/18/empat.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/18/dua.png"
+    },
+    {
+      "name": "Wandering Xisuma Trader",
+      "role": "Have you watched Hermitcraft? Then you'll know Xisuma one of the players and YouTubers of the server - This texture pack changes the pesky Wandering Trader to look like xisumavoid's new bee skin he has adopted since season 7",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/19/satu.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/19/XisumaTrade.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/19/satu.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/19/dua.png"
+    },
+    {
+      "name": "Among Us Bedrock Edition V2",
+      "role": "This is mine and my friend's Skeld map on Minecraft Bedrock Edition, but it is a sequel to my original one! The map design is better, and the tasks are better, the sabotages are better, and your friendships will be worse! Thank me later.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/28/empat.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/28/Skeld-V2_1606958622.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/28/enam.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/28/enam.png"
     }
   ],
   "Texture": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+      "name": "Allay Concept (B)",
+      "role": "Mojang announced on its youtube channel a very interesting new mob its name is: Allay you want to try it first hand? This addon is just a concept that represents what was presented in the original Mojang video, until the official announcement of the winner, all features remained the same.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Allay/3/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Allay/3/Allay Concept Behavior Pack101.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Allay/3/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Allay/3/1.png"
+    },
+    {
+      "name": "Allay Concept (R)",
+      "role": "Mojang announced on its youtube channel a very interesting new mob its name is: Allay you want to try it first hand? This addon is just a concept that represents what was presented in the original Mojang video, until the official announcement of the winner, all features remained the same.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Allay/3/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Allay/3/Allay Concept Resource Pack101.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Allay/3/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Allay/3/1.png"
+    },
+    {
+      "name": "Mob Hider V26 (New Mob Added!)",
+      "role": "Mob Hider is an addon for those who want to become mobs and monsters in Minecraft PE. You mainly cannot become mobs and monsters in the vanilla version of the game. Would you like, for example, to become Creepers, Endermans, Witches and other monsters? Just download this addon to get this opportunity. Remember to turn on Experimental Gameplay Mode before you use this addon. I hope you like it, download and enjoy.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Allay/4/3.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Allay/4/Mob_Hider_V17.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Allay/4/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Allay/4/1.png"
+    },
+    {
+      "name": "Bare Bones PvP",
+      "role": "Bare Bones PvP 16x is a texture pack that you can overlay on top of the Bare Bones textures to get a better PvP experience. Start PvP-ing with the bare bones of Minecraft textures!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/1/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/1/Barebones.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/1/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/1/3.png"
+    },
+    {
+      "name": "Bare Bones Texture Pack",
+      "role": "Bare Bones is a texture pack with the purpose of bringing your world and the default Minecraft textures to it's 'bare bones'. It is a simplistic and vibrant pack that is fun to use and makes your own Minecraft worlds look colourful!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/2/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/2/RP_BB.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/2/3.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/2/2.png"
+    },
+    {
+      "name": "Round World Shaders",
+      "role": "Are you a flat world believer? Well, no more I suppose! This shader makes the world in Minecraft look more round. It�s only the player who uses the resource pack which will be affected by this great visual change. It]'s by no means a realistic pack as you can't really sense the shape of the Earth just by walking. It's still pretty cool though. Beware though, it might cause you to feel nauseous but it's easy to disable the pack.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/empatpuluhtiga_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/Round World Shaders v. 1.0.2.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/empatpuluhempat_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/duapuluhdua.png"
+    },
+    {
+      "name": "RSPE Shaders",
+      "role": "RSPE Shaders is a resource pack which makes the world look more vibrant, realistic and alive. Some things which it changes are the clouds, water, lava and shadows. This is one of the best shader packs for version 0.16/0.17 for Minecraft PE. It has been specifically designed for iOS devices but it will also work on Android. All in all, it�s an amazing shaders pack!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/empatpuluhlima_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/RSPEShaderBeta.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/empatpuluhenam_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/duapuluhtiga.png"
+    },
+    {
+      "name": "Realistic Shaders [16 16]",
+      "role": "This shaders pack is the perfect addition to make the game look a lot more realistic and alive. One of the really cool features make it look as if wind was blowing in the grass and leaves causing them to move. The shadows are heavily improved which make them look more realistic and as you will see in the images further down it has a great impact on the graphics.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/tigapuluhdua.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/Shaders Mcpe 0.12.1 (1).mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/enampuluhtiga_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/enampuluhempat_desc.png"
+    },
+    {
+      "name": "Arthur's Skin Pack",
+      "role": "I have a brother named Arthur. He is very interested in making skins. I saw what he did and was very impressed. He told me I could upload it to this website.  I hope you like it to...",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/17/enam.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/17/Arthurs_Skin_Pack.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/17/empat.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/17/dua.png"
+    },
+    {
+      "name": "Camouflage Skins 2.1 (Upgrade)",
+      "role": "Do you want to camouflage yourself in your world to play hide and seek, or hide from your enemies in some modes such as skywars or you just want to troll your friends then this is the skin pack for you. Or you can also use this skin pack to hide or troll your friends.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/20/empat.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/20/Camouflage_Skins2.1.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/20/dua.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/20/lima.png"
+    },
+    {
+      "name": "Among Us Skinpack Regular",
+      "role": "This is an Among Us Skin Pack which you can use for various worlds. Very interesting! Yap, from the game that is currently famous. Use it and invite your friends to play using this skin pack.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/26/satu.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/26/Among-us-skin-pack_1603183831.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/26/empat.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/26/dua.png"
+    },
+    {
+      "name": "Luz10noch0's Among Us SkinPack",
+      "role": "Among Us is a game in where you can team with your friends, or BETRAY THEM!!  Choose a color and start your Minecraft Among Us roleplay!! Choose between being an impostor or a crewmember!!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/29/enam.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/29/Among-Us-SkinPack-By-Luz10n0cho_The_Enderm4n.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/29/empat.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/29/dua.png"
+    },
+    {
+      "name": "Winter HD (1.14+)",
+      "role": "This is a shaders which adds winter season with high definition of everything. Suitable for your map, and it is working smoothly in every low spec device. The size is just 2 MB. Interested? Feel free to try it out!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/tujuhpuluhsembilan_desc.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/WinterHD.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/empatpuluh.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/delapanpuluh_desc.png"
+    },
+    {
+      "name": "Night Vision Pack (Shader)",
+      "role": "Forget about the torches. This shader pack pretty much removes darkness from the game and it doesn�t seem to affect other parts of the game in any way. This pack is suitable for anyone who want to be out exploring during the night or go on an adventure underground to explore caves. Everything will look the same except for the darkness which will be gone.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/empatpuluhtiga.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/Night Vision Pack 1.0.3.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/delapanpuluhenam_desc.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/delapanpuluhlima_desc.png"
+    },
+    {
+      "name": "SEUS PE Shader (Medium)",
+      "role": "This is to date the most realistic shaders pack for Minecraft PE. The light of the sun and moon shimmers beautifully when reflected on the water. Shadows have been massively improved and so have the sky and the Nether. The hype for this is real and you should definitely give it a try if you want to experience a more realistic version of Minecraft. Creator: Gabriel Paixão",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/3.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/seusstandard.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/2.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/1.jpg"
+    },
+    {
+      "name": "Ultra Source Reload Shader (Windows 10)",
+      "role": "Source Reload is a highly realistic shader pack for Windows 10 Edition. Some of the included features are massively improved clouds, waving plants and wavy water. It's definitely one of the best shader packs and currently it's only available for Windows 10 users. Even though it's a fairly new pack it includes most features one needs!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/3.jpg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/UltraSource Reload Shader 1.2 Ultra W10.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/2.jpg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/1.jpg"
     }
   ],
   "Skins": [
-{
-    "id": 1,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/AlqX-Fe7HWEv2xVO6GFX4k3xwCtLwAM4q6_OqdPKlprOIpbbLBiAudg3Amqdgi_hPnvsuWbLgaUVPn7RkxfGS04",
-    "view_skin": "https://lh3.googleusercontent.com/OPGXT2RwS8uGMhT4U9Tna6aDnFoN8l0gCHVAYSfyT74g6NzTz9B4PFJ8ei9UVUUNudnzREJ1pPKEKIO_oNpCNQ"
-  },
-  {
-    "id": 2,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/HsKgXtUxeSHzWwwBcD0skfExkXGVvWFPHE0PSk8aD21iLvv2z8JKZmbsAh6L33fQiEkL--qdFBbK9VGrF88S8Sz8XJr0BnAOb8A",
-    "view_skin": "https://lh3.googleusercontent.com/7IL__YX9COVVzTfzMjF9KUsZBrG0ZgFQr3cAQ5pUQwYFpX5Qe2nwOJJNCCnjUmeV3NMPfUhFIN6hT720ThQctFgIGdPtD6oKFgg"
-  },
-  {
-    "id": 3,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/wJjtSxTBK_VpiVpIBdJtkh8KrHgM4R-gZo4a6yJPN0GJXpTPbykdul0t2s41lcDtKSaLseRvD-m6SmjJ_6i5aesz9UhIv12c-wU",
-    "view_skin": "https://lh3.googleusercontent.com/YfJGFZJmkZhG7fQZKqjmomXgZMir0cv0sxO-LrVK63VtUju0rKIOjYEhM-r8ThDLMHT08xJ2lFJfqv5mm2Rj9cd9koB9jXAg7W8"
-  },
-  {
-    "id": 4,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/9eQfRo9waEC2s7A0jKdjrF4VBkDLZgWxoIhIwCcGGnTVK5eeGL-Nl20fsDjSs4pcX458BZo8WaFMp3k2Stwt2PQ",
-    "view_skin": "https://lh3.googleusercontent.com/2FTuxeDUax-2goOFylM7gQOrthf7eODBSuf3nq92dNmzXwxVEclV3hNMkw9moI8SsYp2b84iGFUJRjzonZm6jw"
-  },
-  {
-    "id": 5,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/8bRsyOY5xWknDMjF6wydOdUKZHt5Ig1kPvcqBooa346UCMMBPz3rCt_XpKMQ_itoJXI5AHdj-ZbLayhwJmCEReo",
-    "view_skin": "https://lh3.googleusercontent.com/ejE87zxGqvPWPRR43aGLjNXfX_QmojqGEoZZQmtCCBp2JVKTjJU3LKfoAJDPLhKWWDt3iXr4DXikT2eGm7yRK88"
-  },
-  {
-    "id": 6,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/MsH_QVZllS9_fDgboDQXZuhSNDHIrMg-eGjuS4rIdcdSA3LpF9PoareXG1dU4qSqy_CUhCDoX9JXym2IDHNbBmk",
-    "view_skin": "https://lh3.googleusercontent.com/MgshmiMYrMWvvHM131VxLv6k2R1O__qTfsPcNih_hDmQK5e-LQ2nAZtDiHN5HnqKBPf4qlXhOLqN2WWlyIHV3A"
-  },
-  {
-    "id": 7,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/QfPccSP_zhhjLwu9TLmKGAVuYE_w_RI8IVtUU1tyE7BnzHkMcuPMa5HkZOjD0Z8bSP2btV9GT283KKRxx4d88Q",
-    "view_skin": "https://lh3.googleusercontent.com/T7ioXGOAsYQ_FuN1PS-49roVhmc1YOJXqdVuJzm92F4mpR5ogmtxv09OQhDRQapYVJ9oo3uudQPlfS0VDtD_Zw-A5gbOdoKtBQ"
-  },
-  {
-    "id": 8,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/HIYwEG8XuXJt6dYI09riyhz9-uMjyvgKTmojGXwnNbZChKl0DcrmWENyATKA0AQv9YY0GVfeT6RY5PnHVuZI5OETa7sUDqmd3Q",
-    "view_skin": "https://lh3.googleusercontent.com/3vogPUvzSfGNRuThPFxFK_nX1nf4FTFeHgGyG3F0UlrYhOEQ77yB5BMlDLuwgU5IYKAODh8mmxOveBYUjGL79ASGt3xD3tr6HGc"
-  },
-  {
-    "id": 9,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/P_zQCOse4YRKsZZko8NucHLXWsEAD_MfvI2MXjQxEaLdGcV3xiR4VSQ7hDsuVEqCyeg_pg1jDx37HjSmp0QWpSk",
-    "view_skin": "https://lh3.googleusercontent.com/sXrIcgzySqx9IcPQgbiSVCR_5Gw3QNakVdC67h9DmJKEafIbtEp4gtZ44QsNlwAWtw0bSnvenSXRYm0CSIw2"
-  },
-  {
-    "id": 10,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/uU2UPrk6cR4R1SXA6h06VQ8iR18xXpHmjUTjy02ztwlUMsNvmleAKn1mCfu_EDpVBDFxlAGQV73vSN1-4LJJcTk",
-    "view_skin": "https://lh3.googleusercontent.com/jYE8L31N9iZk8h7Q1uszbc-C-Pi4vpcmnth4IVg1ETdkmxoYkXTbk2IOXyw5UhbsVSz9oxlkBJShQTLhHSEB"
-  }
-  ],
-  "More":
-  [
-      
-      
-  
     {
-      "id":1,
-      "title":"",
-      "image":"",
-      "link":"https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
+      "id": 1,
+      "name_skin": "",
+      "skin_url": "https://lh3.googleusercontent.com/AlqX-Fe7HWEv2xVO6GFX4k3xwCtLwAM4q6_OqdPKlprOIpbbLBiAudg3Amqdgi_hPnvsuWbLgaUVPn7RkxfGS04",
+      "view_skin": "https://lh3.googleusercontent.com/OPGXT2RwS8uGMhT4U9Tna6aDnFoN8l0gCHVAYSfyT74g6NzTz9B4PFJ8ei9UVUUNudnzREJ1pPKEKIO_oNpCNQ"
+    },
+    {
+      "id": 2,
+      "name_skin": "",
+      "skin_url": "https://lh3.googleusercontent.com/HsKgXtUxeSHzWwwBcD0skfExkXGVvWFPHE0PSk8aD21iLvv2z8JKZmbsAh6L33fQiEkL--qdFBbK9VGrF88S8Sz8XJr0BnAOb8A",
+      "view_skin": "https://lh3.googleusercontent.com/7IL__YX9COVVzTfzMjF9KUsZBrG0ZgFQr3cAQ5pUQwYFpX5Qe2nwOJJNCCnjUmeV3NMPfUhFIN6hT720ThQctFgIGdPtD6oKFgg"
+    },
+    {
+      "id": 3,
+      "name_skin": "",
+      "skin_url": "https://lh3.googleusercontent.com/wJjtSxTBK_VpiVpIBdJtkh8KrHgM4R-gZo4a6yJPN0GJXpTPbykdul0t2s41lcDtKSaLseRvD-m6SmjJ_6i5aesz9UhIv12c-wU",
+      "view_skin": "https://lh3.googleusercontent.com/YfJGFZJmkZhG7fQZKqjmomXgZMir0cv0sxO-LrVK63VtUju0rKIOjYEhM-r8ThDLMHT08xJ2lFJfqv5mm2Rj9cd9koB9jXAg7W8"
+    },
+    {
+      "id": 4,
+      "name_skin": "",
+      "skin_url": "https://lh3.googleusercontent.com/9eQfRo9waEC2s7A0jKdjrF4VBkDLZgWxoIhIwCcGGnTVK5eeGL-Nl20fsDjSs4pcX458BZo8WaFMp3k2Stwt2PQ",
+      "view_skin": "https://lh3.googleusercontent.com/2FTuxeDUax-2goOFylM7gQOrthf7eODBSuf3nq92dNmzXwxVEclV3hNMkw9moI8SsYp2b84iGFUJRjzonZm6jw"
+    },
+    {
+      "id": 5,
+      "name_skin": "",
+      "skin_url": "https://lh3.googleusercontent.com/8bRsyOY5xWknDMjF6wydOdUKZHt5Ig1kPvcqBooa346UCMMBPz3rCt_XpKMQ_itoJXI5AHdj-ZbLayhwJmCEReo",
+      "view_skin": "https://lh3.googleusercontent.com/ejE87zxGqvPWPRR43aGLjNXfX_QmojqGEoZZQmtCCBp2JVKTjJU3LKfoAJDPLhKWWDt3iXr4DXikT2eGm7yRK88"
+    },
+    {
+      "id": 6,
+      "name_skin": "",
+      "skin_url": "https://lh3.googleusercontent.com/MsH_QVZllS9_fDgboDQXZuhSNDHIrMg-eGjuS4rIdcdSA3LpF9PoareXG1dU4qSqy_CUhCDoX9JXym2IDHNbBmk",
+      "view_skin": "https://lh3.googleusercontent.com/MgshmiMYrMWvvHM131VxLv6k2R1O__qTfsPcNih_hDmQK5e-LQ2nAZtDiHN5HnqKBPf4qlXhOLqN2WWlyIHV3A"
+    },
+    {
+      "id": 7,
+      "name_skin": "",
+      "skin_url": "https://lh3.googleusercontent.com/QfPccSP_zhhjLwu9TLmKGAVuYE_w_RI8IVtUU1tyE7BnzHkMcuPMa5HkZOjD0Z8bSP2btV9GT283KKRxx4d88Q",
+      "view_skin": "https://lh3.googleusercontent.com/T7ioXGOAsYQ_FuN1PS-49roVhmc1YOJXqdVuJzm92F4mpR5ogmtxv09OQhDRQapYVJ9oo3uudQPlfS0VDtD_Zw-A5gbOdoKtBQ"
+    },
+    {
+      "id": 8,
+      "name_skin": "",
+      "skin_url": "https://lh3.googleusercontent.com/HIYwEG8XuXJt6dYI09riyhz9-uMjyvgKTmojGXwnNbZChKl0DcrmWENyATKA0AQv9YY0GVfeT6RY5PnHVuZI5OETa7sUDqmd3Q",
+      "view_skin": "https://lh3.googleusercontent.com/3vogPUvzSfGNRuThPFxFK_nX1nf4FTFeHgGyG3F0UlrYhOEQ77yB5BMlDLuwgU5IYKAODh8mmxOveBYUjGL79ASGt3xD3tr6HGc"
+    },
+    {
+      "id": 9,
+      "name_skin": "",
+      "skin_url": "https://lh3.googleusercontent.com/P_zQCOse4YRKsZZko8NucHLXWsEAD_MfvI2MXjQxEaLdGcV3xiR4VSQ7hDsuVEqCyeg_pg1jDx37HjSmp0QWpSk",
+      "view_skin": "https://lh3.googleusercontent.com/sXrIcgzySqx9IcPQgbiSVCR_5Gw3QNakVdC67h9DmJKEafIbtEp4gtZ44QsNlwAWtw0bSnvenSXRYm0CSIw2"
+    },
+    {
+      "id": 10,
+      "name_skin": "",
+      "skin_url": "https://lh3.googleusercontent.com/uU2UPrk6cR4R1SXA6h06VQ8iR18xXpHmjUTjy02ztwlUMsNvmleAKn1mCfu_EDpVBDFxlAGQV73vSN1-4LJJcTk",
+      "view_skin": "https://lh3.googleusercontent.com/jYE8L31N9iZk8h7Q1uszbc-C-Pi4vpcmnth4IVg1ETdkmxoYkXTbk2IOXyw5UhbsVSz9oxlkBJShQTLhHSEB"
     }
-  
-
-      
-      
-      ]
+  ],
+  "More": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": "https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
+    }
+  ]
 }
